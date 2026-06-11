@@ -47,10 +47,10 @@ I build modular, AI-powered security &amp; compliance infrastructure for French 
 
 **AI / LLM**
 
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-5A45FF?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-008bb9?style=for-the-badge&logo=postgresql&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_%26_Agents-5A45FF?style=for-the-badge&logo=probot&logoColor=white)
 
