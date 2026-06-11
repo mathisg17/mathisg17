@@ -4,7 +4,7 @@
 
 ### Founder & engineer at [Aeon HQ](https://github.com/Aeon-HQ) — building StrucTime
 
-I build modular security &amp; compliance infrastructure for French SMBs.
+I build modular, AI-powered security &amp; compliance infrastructure for French SMBs.
 
 [![Aeon HQ](https://img.shields.io/badge/Aeon_HQ-aeon--systems.fr-0b0b0c?style=flat-square)](https://aeon-systems.fr)
 [![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-2563eb?style=flat-square)](https://structime.app)
@@ -16,15 +16,59 @@ I build modular security &amp; compliance infrastructure for French SMBs.
 ### 🛠️ What I work on
 
 - **[StrucTime](https://structime.app)** — field-oriented SaaS for French SMBs, with
-  built-in legal compliance (NF525, Factur-X, eIDAS) across 44 operational modules.
+  built-in legal compliance across 44 operational modules.
 - **Modular services** — signature, invoicing, documents, onboarding, compliance,
   cyber and monitoring, each running as its own service.
+- **AI layer** — LLM-assisted workflows, document understanding, retrieval and agents
+  woven through the product.
 
-### ⚙️ Stack
+### ⚙️ Tech stack
 
-`TypeScript` · `React` · `NestJS` · `PostgreSQL` · `BullMQ` · `Supabase` · `Cloudflare R2`
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+**AI / LLM**
+
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-008bb9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%26_Agents-5A45FF?style=for-the-badge&logo=probot&logoColor=white)
+
+**Data &amp; Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-FF4438?style=for-the-badge&logo=valkey&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DD2C00?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <div align="center">
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisg17&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisg17&layout=compact&hide_border=true&title_color=2563eb)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mathisg17&style=flat-square&color=2563eb)
 
