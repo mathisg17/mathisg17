@@ -4,7 +4,7 @@
 
 **Founder & engineer at [Aeon HQ](https://github.com/Aeon-HQ)**
 
-I build the software French SMBs run on, and the systems underneath it.
+Business software for French SMBs, and the systems it runs on.
 
 [![Aeon Systems](https://img.shields.io/badge/Aeon_Systems-aeon--systems.fr-0b0b0c?style=flat-square)](https://aeon-systems.fr)
 [![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-2563eb?style=flat-square)](https://structime.app)
@@ -13,50 +13,71 @@ I build the software French SMBs run on, and the systems underneath it.
 
 ---
 
+<div align="center">
+
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnu&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**C# / .NET** carries the StrucTime backend: vertical slices, EF Core, a message bus, and the
-accounting rules that have to be right. **TypeScript and React** make the product surface, typed
-end to end against the OpenAPI contract. **Rust** runs the shared platform behind it (auth,
-billing, files, notifications, print). **C, C++ and assembly** are for the low-level work: kernel
-and boot code, context switching, hand-written SIMD kernels, on RISC-V 64, AArch64 and x86-64.
-**Go and Python** handle tooling, data, and model training.
+### Backend
+
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Systems & Infra
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
+![ARM](https://img.shields.io/badge/AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+
+### AI & Machine learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA_%2F_QLoRA-5A45FF?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+
+</div>
+
+---
 
 ### StrucTime
 
-Field-oriented SaaS for French SMBs, in production. Quotes, invoices, time tracking, payroll and
-site management across 33 modules, with French compliance built in rather than bolted on:
-e-invoicing and the 2026 reform, NF525 sealing, GDPR, payroll rules, and the paperwork the
-construction sector runs on.
+Field SaaS for French SMBs, in production. Quotes, invoices, time tracking, payroll, site
+management: 33 modules. French compliance is part of the product, from e-invoicing and the 2026
+reform to NF525 sealing and payroll law.
 
-### Training models
+### StrucTime LWM
 
-I train models, I don't just call them. Fine-tuning with PyTorch and the Hugging Face stack
-(PEFT, LoRA and QLoRA, quantised training), and serving what comes out of it.
+A world model. It learns the dynamics of real systems from real data, then executes them for
+forecasting, simulation and causal analysis. Held out on public data, 9 of 10 domain × horizon
+configurations beat the seasonal baseline, by up to 29%.
 
-The research side is **StrucTime LWM**, a world model rather than a language model. It learns the
-dynamics of real systems from real data, then executes them: forecasting over several horizons,
-answering by simulation on the current state, and causal analysis. Because the answer is carried
-by the learned dynamics instead of retrieved text, it resists hallucination by construction.
-Measured held out against the seasonal baseline, on public data and identical windows, 9 of 10
-domain × horizon configurations beat the reference, by up to 29% where the structure allows it.
+### Engineering
 
-### How I build
-
-Multi-tenancy is enforced by PostgreSQL row-level security, forced, with the tenant set per
-transaction: cross-tenant access isn't guarded against, it's impossible. Money is decimal all the
-way down, cents as integers, French formatting only at the edge. Anything two people can edit at
-once carries an ETag, and a conflict goes back to the user instead of overwriting a colleague.
-
-The rest is guards rather than intentions: architecture tests, a deployment gate, and a synthetic
-route × role probe after every release. A comment that lies costs more than no comment at all.
+Multi-tenancy enforced in the database with forced row-level security. Money in decimal, cents as
+integers. ETags on every record two people can edit at once. Architecture tests, a deployment
+gate, and a route × role probe on every release.
