@@ -1,47 +1,88 @@
 <div align="center">
 
-# Mathis
+# Hi, I'm Mathis 👋
 
-<samp>
-  <a href="https://aeon-systems.fr">aeon systems</a> ·
-  <a href="https://structime.app">structime</a> ·
-  <a href="https://github.com/Aeon-HQ">aeon hq</a>
-</samp>
+### Founder & engineer at [Aeon HQ](https://github.com/Aeon-HQ) — building StrucTime
 
-<br><br>
+I build modular, AI-powered security &amp; compliance infrastructure for French SMBs.
 
-Business software for French SMBs, and the systems it runs on.
-
-<br>
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=gnu&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)
-![AArch64](https://img.shields.io/badge/AArch64-0091BD?style=flat-square&logo=arm&logoColor=white)
+[![Aeon HQ](https://img.shields.io/badge/Aeon_HQ-aeon--systems.fr-0b0b0c?style=flat-square)](https://aeon-systems.fr)
+[![StrucTime](https://img.shields.io/badge/StrucTime-structime.app-2563eb?style=flat-square)](https://structime.app)
 
 </div>
 
+---
+
+### 🛠️ What I work on
+
+- **[StrucTime](https://structime.app)** — field-oriented SaaS for French SMBs, with
+  built-in legal compliance across 44 operational modules.
+- **Modular services** — signature, invoicing, documents, onboarding, compliance,
+  cyber and monitoring, each running as its own service.
+- **AI layer** — LLM-assisted workflows, document understanding, retrieval and agents
+  woven through the product.
+
+### ⚙️ Tech stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**AI / LLM — training &amp; fine-tuning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-5A45FF?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-5A45FF?style=for-the-badge)
+![Unsloth](https://img.shields.io/badge/Unsloth-00C26F?style=for-the-badge)
+![Axolotl](https://img.shields.io/badge/Axolotl-1E293B?style=for-the-badge)
+![bitsandbytes](https://img.shields.io/badge/bitsandbytes-1E293B?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+**AI / LLM — inference &amp; apps**
+
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-1E293B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-008bb9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%26_Agents-5A45FF?style=for-the-badge&logo=probot&logoColor=white)
+
+**Data &amp; Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+
+<div align="center">
+
 <br>
 
-**[StrucTime](https://structime.app)** · field SaaS for French SMBs, 33 modules, in production.
-Quotes, invoices, payroll, site management, French compliance included.
+![Profile views](https://komarev.com/ghpvc/?username=mathisg17&style=flat-square&color=2563eb)
 
-**StrucTime LWM** · a world model trained on real systems. Held out, 9 of 10 configurations beat
-the seasonal baseline, up to 29%.
+</div>
